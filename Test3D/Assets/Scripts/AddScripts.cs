@@ -1,9 +1,13 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 using UnityEngine;
 using UnityEngine.UI;
 
+#if UNITY_EDITOR
 public class AddScripts : MonoBehaviour
 {
     public Toggle[] toggle;	
@@ -47,3 +51,4 @@ public class AddScripts : MonoBehaviour
         }        
     }    
 }
+#endif

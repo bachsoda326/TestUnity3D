@@ -56,11 +56,12 @@
      <Compile Include="Assets\Scripts\AddScripts.cs" />
      <Compile Include="Assets\Scripts\CameraRotation.cs" />
      <Compile Include="Assets\Scripts\CameraZoom.cs" />
-     <Compile Include="Assets\Scripts\Load3DModel.cs" />
+     <Compile Include="Assets\Scripts\LoadAssetBundles.cs" />
      <Compile Include="Assets\Scripts\ObjectMovement.cs" />
      <Compile Include="Assets\Scripts\ObjectRotation.cs" />
      <Compile Include="Assets\Scripts\ObjectScaling.cs" />
      <Compile Include="Assets\Scripts\ObjectZoom.cs" />
+     <Compile Include="Assets\Scripts\SaveAssetBundles.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>D:/Mine/5. Study/2. Projects Test/C#/1. Unity 3D/Test3D/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
