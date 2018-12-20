@@ -26,14 +26,13 @@
     
 ### Tìm kiếm bài hát trên Youtube
    
-   ![database](https://user-images.githubusercontent.com/35907949/50275283-93dc1380-0471-11e9-9ee6-a31bc9b4d77d.PNG)
-   ![database](https://user-images.githubusercontent.com/35907949/50275283-93dc1380-0471-11e9-9ee6-a31bc9b4d77d.PNG)
+   ![youtube](https://user-images.githubusercontent.com/35907949/50275659-7bb8c400-0472-11e9-8186-c163ffaf55ef.PNG)
+   ![youtubeplay](https://user-images.githubusercontent.com/35907949/50275686-85dac280-0472-11e9-915c-19e583c04ca2.PNG)
+   ![youtubeplayfullscreen](https://user-images.githubusercontent.com/35907949/50275697-8c693a00-0472-11e9-9ca4-d0d06a1cc4f2.PNG)
     
 ### Thêm bài hát vào mục yêu thích
         
-   <p align="center">
-   ![database](https://user-images.githubusercontent.com/35907949/50275283-93dc1380-0471-11e9-9ee6-a31bc9b4d77d.PNG)
-   </p>
+   ![favorite](https://user-images.githubusercontent.com/35907949/50275639-6ba0e480-0472-11e9-80f3-af13647c2e9b.PNG)
 
 ## Yêu cầu thiết bị
 -Android:
